@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color:red;
+    text-align: center;    
+}
+
+.inputs{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    border :2px solid red;
+    border-radius: 4px;
+}
